@@ -1,0 +1,1 @@
+web: gunicorn qamcv.wsgi --log-file -
